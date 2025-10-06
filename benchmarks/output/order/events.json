@@ -1,0 +1,447 @@
+[
+  {
+    "time_s": 3.0000024707987905e-05,
+    "label": "monitor_start",
+    "metadata": {}
+  },
+  {
+    "time_s": 0.009023799997521564,
+    "label": "example2_order_sweep_start",
+    "metadata": {
+      "order_min": 0,
+      "order_max": 28
+    }
+  },
+  {
+    "time_s": 0.015236100007314235,
+    "label": "example2_order_setup",
+    "metadata": {
+      "order": 0
+    }
+  },
+  {
+    "time_s": 0.04508850001730025,
+    "label": "example2_order_smatrix_start",
+    "metadata": {
+      "order": 0
+    }
+  },
+  {
+    "time_s": 0.047518900013528764,
+    "label": "example2_order_smatrix_end",
+    "metadata": {
+      "order": 0
+    }
+  },
+  {
+    "time_s": 0.05655290000140667,
+    "label": "example2_order_sparams",
+    "metadata": {
+      "order": 0
+    }
+  },
+  {
+    "time_s": 0.05808290001004934,
+    "label": "example2_order_setup",
+    "metadata": {
+      "order": 2
+    }
+  },
+  {
+    "time_s": 0.08083730001817457,
+    "label": "example2_order_smatrix_start",
+    "metadata": {
+      "order": 2
+    }
+  },
+  {
+    "time_s": 0.0822397000156343,
+    "label": "example2_order_smatrix_end",
+    "metadata": {
+      "order": 2
+    }
+  },
+  {
+    "time_s": 0.08598500001244247,
+    "label": "example2_order_sparams",
+    "metadata": {
+      "order": 2
+    }
+  },
+  {
+    "time_s": 0.08746790001168847,
+    "label": "example2_order_setup",
+    "metadata": {
+      "order": 4
+    }
+  },
+  {
+    "time_s": 0.10883510002167895,
+    "label": "example2_order_smatrix_start",
+    "metadata": {
+      "order": 4
+    }
+  },
+  {
+    "time_s": 0.1105602000025101,
+    "label": "example2_order_smatrix_end",
+    "metadata": {
+      "order": 4
+    }
+  },
+  {
+    "time_s": 0.1144761000177823,
+    "label": "example2_order_sparams",
+    "metadata": {
+      "order": 4
+    }
+  },
+  {
+    "time_s": 0.11674640001729131,
+    "label": "example2_order_setup",
+    "metadata": {
+      "order": 6
+    }
+  },
+  {
+    "time_s": 0.18162519999896176,
+    "label": "example2_order_smatrix_start",
+    "metadata": {
+      "order": 6
+    }
+  },
+  {
+    "time_s": 0.18585560002247803,
+    "label": "example2_order_smatrix_end",
+    "metadata": {
+      "order": 6
+    }
+  },
+  {
+    "time_s": 0.1917161000019405,
+    "label": "example2_order_sparams",
+    "metadata": {
+      "order": 6
+    }
+  },
+  {
+    "time_s": 0.19484599999850616,
+    "label": "example2_order_setup",
+    "metadata": {
+      "order": 8
+    }
+  },
+  {
+    "time_s": 0.3817838000250049,
+    "label": "example2_order_smatrix_start",
+    "metadata": {
+      "order": 8
+    }
+  },
+  {
+    "time_s": 0.3907056000025477,
+    "label": "example2_order_smatrix_end",
+    "metadata": {
+      "order": 8
+    }
+  },
+  {
+    "time_s": 0.3945028000161983,
+    "label": "example2_order_sparams",
+    "metadata": {
+      "order": 8
+    }
+  },
+  {
+    "time_s": 0.3973204000212718,
+    "label": "example2_order_setup",
+    "metadata": {
+      "order": 10
+    }
+  },
+  {
+    "time_s": 0.8326898000086658,
+    "label": "example2_order_smatrix_start",
+    "metadata": {
+      "order": 10
+    }
+  },
+  {
+    "time_s": 0.8560466000053566,
+    "label": "example2_order_smatrix_end",
+    "metadata": {
+      "order": 10
+    }
+  },
+  {
+    "time_s": 0.8596597000141628,
+    "label": "example2_order_sparams",
+    "metadata": {
+      "order": 10
+    }
+  },
+  {
+    "time_s": 0.8685019000258762,
+    "label": "example2_order_setup",
+    "metadata": {
+      "order": 12
+    }
+  },
+  {
+    "time_s": 1.8831337000010535,
+    "label": "example2_order_smatrix_start",
+    "metadata": {
+      "order": 12
+    }
+  },
+  {
+    "time_s": 1.9379661999992095,
+    "label": "example2_order_smatrix_end",
+    "metadata": {
+      "order": 12
+    }
+  },
+  {
+    "time_s": 1.9421575000160374,
+    "label": "example2_order_sparams",
+    "metadata": {
+      "order": 12
+    }
+  },
+  {
+    "time_s": 1.947640300000785,
+    "label": "example2_order_setup",
+    "metadata": {
+      "order": 14
+    }
+  },
+  {
+    "time_s": 4.157590400020126,
+    "label": "example2_order_smatrix_start",
+    "metadata": {
+      "order": 14
+    }
+  },
+  {
+    "time_s": 4.290835699997842,
+    "label": "example2_order_smatrix_end",
+    "metadata": {
+      "order": 14
+    }
+  },
+  {
+    "time_s": 4.296808100014459,
+    "label": "example2_order_sparams",
+    "metadata": {
+      "order": 14
+    }
+  },
+  {
+    "time_s": 4.310644100012723,
+    "label": "example2_order_setup",
+    "metadata": {
+      "order": 16
+    }
+  },
+  {
+    "time_s": 7.637047600001097,
+    "label": "example2_order_smatrix_start",
+    "metadata": {
+      "order": 16
+    }
+  },
+  {
+    "time_s": 7.916239400015911,
+    "label": "example2_order_smatrix_end",
+    "metadata": {
+      "order": 16
+    }
+  },
+  {
+    "time_s": 7.920468299998902,
+    "label": "example2_order_sparams",
+    "metadata": {
+      "order": 16
+    }
+  },
+  {
+    "time_s": 7.93771790000028,
+    "label": "example2_order_setup",
+    "metadata": {
+      "order": 18
+    }
+  },
+  {
+    "time_s": 13.599339000007603,
+    "label": "example2_order_smatrix_start",
+    "metadata": {
+      "order": 18
+    }
+  },
+  {
+    "time_s": 14.135693000018364,
+    "label": "example2_order_smatrix_end",
+    "metadata": {
+      "order": 18
+    }
+  },
+  {
+    "time_s": 14.143817700009095,
+    "label": "example2_order_sparams",
+    "metadata": {
+      "order": 18
+    }
+  },
+  {
+    "time_s": 14.156682500004536,
+    "label": "example2_order_setup",
+    "metadata": {
+      "order": 20
+    }
+  },
+  {
+    "time_s": 23.93528640002478,
+    "label": "example2_order_smatrix_start",
+    "metadata": {
+      "order": 20
+    }
+  },
+  {
+    "time_s": 24.916253000003053,
+    "label": "example2_order_smatrix_end",
+    "metadata": {
+      "order": 20
+    }
+  },
+  {
+    "time_s": 24.92204770000535,
+    "label": "example2_order_sparams",
+    "metadata": {
+      "order": 20
+    }
+  },
+  {
+    "time_s": 24.942452500021318,
+    "label": "example2_order_setup",
+    "metadata": {
+      "order": 22
+    }
+  },
+  {
+    "time_s": 40.93200070000603,
+    "label": "example2_order_smatrix_start",
+    "metadata": {
+      "order": 22
+    }
+  },
+  {
+    "time_s": 42.634853499999736,
+    "label": "example2_order_smatrix_end",
+    "metadata": {
+      "order": 22
+    }
+  },
+  {
+    "time_s": 42.63906810001936,
+    "label": "example2_order_sparams",
+    "metadata": {
+      "order": 22
+    }
+  },
+  {
+    "time_s": 42.67167860001791,
+    "label": "example2_order_setup",
+    "metadata": {
+      "order": 24
+    }
+  },
+  {
+    "time_s": 72.07368339999812,
+    "label": "example2_order_smatrix_start",
+    "metadata": {
+      "order": 24
+    }
+  },
+  {
+    "time_s": 74.97253810000257,
+    "label": "example2_order_smatrix_end",
+    "metadata": {
+      "order": 24
+    }
+  },
+  {
+    "time_s": 74.97673460000078,
+    "label": "example2_order_sparams",
+    "metadata": {
+      "order": 24
+    }
+  },
+  {
+    "time_s": 75.04488840000704,
+    "label": "example2_order_setup",
+    "metadata": {
+      "order": 26
+    }
+  },
+  {
+    "time_s": 251.99302590001025,
+    "label": "example2_order_smatrix_start",
+    "metadata": {
+      "order": 26
+    }
+  },
+  {
+    "time_s": 371.85674340001424,
+    "label": "example2_order_smatrix_end",
+    "metadata": {
+      "order": 26
+    }
+  },
+  {
+    "time_s": 371.8609962000046,
+    "label": "example2_order_sparams",
+    "metadata": {
+      "order": 26
+    }
+  },
+  {
+    "time_s": 372.13158110002405,
+    "label": "example2_order_setup",
+    "metadata": {
+      "order": 28
+    }
+  },
+  {
+    "time_s": 732.1072824000148,
+    "label": "example2_order_smatrix_start",
+    "metadata": {
+      "order": 28
+    }
+  },
+  {
+    "time_s": 842.5271836000029,
+    "label": "example2_order_smatrix_end",
+    "metadata": {
+      "order": 28
+    }
+  },
+  {
+    "time_s": 842.5324467000028,
+    "label": "example2_order_sparams",
+    "metadata": {
+      "order": 28
+    }
+  },
+  {
+    "time_s": 843.0559975000215,
+    "label": "example2_order_sweep_end",
+    "metadata": {
+      "count": 15
+    }
+  },
+  {
+    "time_s": 843.0560666000238,
+    "label": "monitor_stop",
+    "metadata": {}
+  }
+]
